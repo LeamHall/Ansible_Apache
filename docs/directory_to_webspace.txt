@@ -1,0 +1,10 @@
+#directory_to_webspace.txt
+
+# Example of mapping a directory not in the DocumentRoot to 
+# a webspace. In this instance <URL>/ks looks at files in /opt/ks.
+
+Alias "/ks" "/opt/ks"
+<Directory "/opt/ks">
+  Options None
+</Directory>
+
