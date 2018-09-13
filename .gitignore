@@ -1,0 +1,7 @@
+server_info/*
+logs/*
+tmp/*
+*.retry
+*.swp
+*.swo
+
