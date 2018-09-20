@@ -1,0 +1,3 @@
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/mapper/vg_root-lv_var
+                      3.9G  162M  3.5G   5% /var
