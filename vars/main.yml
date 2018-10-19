@@ -1,2 +1,5 @@
 ---
-# vars file for apache
+# vars file for Ansible_Apache
+#
+package_name: httpd
+service_name: httpd
